@@ -7,7 +7,7 @@ brew install rar wget
 ```
 
 ```shell
-pip install pandas
+pip install pandas torch
 ```
 
 ## download
