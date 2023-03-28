@@ -9,7 +9,7 @@ from utils import get_data
 
 
 def main():
-    collection_name = "sample"
+    collection_name = "snaptest"
     dim = 3
 
     client = SearchClient()
